@@ -1,0 +1,3 @@
+/home/luis/Coding/ImageToAscii/build/CMakeFiles/ImageToAscii.dir
+/home/luis/Coding/ImageToAscii/build/CMakeFiles/edit_cache.dir
+/home/luis/Coding/ImageToAscii/build/CMakeFiles/rebuild_cache.dir

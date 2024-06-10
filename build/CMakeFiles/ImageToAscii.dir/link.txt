@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ImageToAscii.dir/src/main.cpp.o CMakeFiles/ImageToAscii.dir/lib/lodepng.cpp.o -o ImageToAscii 
